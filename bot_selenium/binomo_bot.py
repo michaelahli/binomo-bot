@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from random import randint
 from datetime import datetime
 
-username = "michaelahli.binomo@gmail.com"
-password = "koko0410"
+username = "example@email.com"
+password = "12345678"
 #compensation = ["14000", "18000", "40000","90000", "203000", "406000", "1030000"]
 #compensation = ["14000", "32000", "58000", "131200", "294400"]
 compensation = ["5", "12", "32", "78", "195", "488"]
